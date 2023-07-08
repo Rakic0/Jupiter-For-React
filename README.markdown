@@ -8,7 +8,9 @@
 
 A Jupiter clone built with React, Typescript and Redux, inspired by the original Jupiter notebook. This clone provides a similar interactive coding environment.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-success?style=for-the-badge)](https://jupiter-for-react.netlify.app/)
+<a href="https://jupiter-for-react.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-success?style=for-the-badge" alt="Live Demo" />
+</a>
 
 ![Jupiter Clone Screenshot](https://imgur.com/bncRFk5.png)
 
