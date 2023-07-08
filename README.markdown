@@ -6,7 +6,7 @@
 [![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white)](https://bulma.io/)
 [![Bulma](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
-A Jupiter clone built with React, Typescript and Redux, inspired by the original Jupiter notebook interface. This clone provides a similar interactive coding environment.
+A Jupiter clone built with React, Typescript and Redux, inspired by the original Jupiter notebook. This clone provides a similar interactive coding environment.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-success?style=for-the-badge)](https://jupiter-for-react.netlify.app/)
 
@@ -18,7 +18,7 @@ A Jupiter clone built with React, Typescript and Redux, inspired by the original
 - Support for Javascript and React
 - Execute code cells and view the output in real-time
 - Markdown support for adding explanations and documentation
-- Easily displaying content on screen using intergrated function
+- Easily displaying content on screen using integrated function
 - Caching imports and optimized bundling
 
 ## Installation
@@ -71,8 +71,11 @@ Write your code in the code cells, and wait for code execution. The output will 
 
 You can also make a Markdown cell. This allows you to add text explanations, documentation, or formatted content to your notebook.
 
+Integrated `show(params)` function is used to display content.
+You can use it with this params: string, number, object, array, JSX element, React Component.
+
 ## Contact
 
-If you have any questions, suggestions, or feature requests, please feel free to reach out to us:
+If you have any questions, suggestions, or feature requests, please feel free to reach out to me:
 
 Your Name: lukarakic@duck.com
