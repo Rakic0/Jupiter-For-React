@@ -12,6 +12,8 @@ A Jupiter clone built with React, Typescript and Redux, inspired by the original
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-success?style=for-the-badge" alt="Live Demo" />
 </a>
 
+> :warning: **Important:** This project is currently not optimized for mobile devices. It is primarily designed for desktop or larger screen sizes. Please keep this in mind while accessing the project from mobile devices.
+
 ![Jupiter Clone Screenshot](https://imgur.com/bncRFk5.png)
 
 ## Features
